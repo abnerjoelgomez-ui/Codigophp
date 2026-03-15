@@ -1,0 +1,6 @@
+<?php
+echo 
+"Hola mundo, soy Abner Joel Gómez Arana <br>";
+echo 
+'<img src="/Proyecto_php/imagenai.jpg" alt="Imagen de ejemplo" width="500" Height="400">';
+?>
